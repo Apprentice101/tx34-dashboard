@@ -1,0 +1,927 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-11",
+  "updatedAt": "2026-06-11T20:45:00Z",
+  "exportedAt": "2026-06-11T22:54:31.101Z",
+  "districtCode": "TX-34",
+  "data": {
+    "DISTRICT": {
+      "id": "tx-34",
+      "districtNumber": "TX-34",
+      "districtName": "Texas's 34th Congressional District",
+      "state": "Texas",
+      "counties": [
+        "Cameron",
+        "Hidalgo (parts)",
+        "Willacy (parts)"
+      ],
+      "majorPlaces": [
+        "Brownsville",
+        "Harlingen",
+        "McAllen",
+        "San Benito",
+        "Edinburg",
+        "Raymondville"
+      ],
+      "cycleYear": 2026,
+      "population": 800000,
+      "registeredVoters": 310000,
+      "partyRegistration": [
+        {
+          "label": "Democratic",
+          "count": 175000,
+          "pct": 56.5
+        },
+        {
+          "label": "Republican",
+          "count": 95000,
+          "pct": 30.6
+        },
+        {
+          "label": "Other / No Party",
+          "count": 40000,
+          "pct": 12.9
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — TX-34",
+        "winner": {
+          "name": "Vicente Gonzalez Jr. (D)",
+          "pct": 51.5,
+          "votes": 75000
+        },
+        "runnerUp": {
+          "name": "Mayra Flores (R)",
+          "pct": 48.5,
+          "votes": 71000
+        },
+        "turnoutPct": 47
+      }
+    },
+    "SOURCES": {
+      "src-tx-sos-elections": {
+        "id": "src-tx-sos-elections",
+        "name": "Texas Secretary of State — Elections Division",
+        "short": "TX SOS Elections",
+        "url": "https://www.sos.state.tx.us/elections/index.shtml",
+        "publisher": "Texas Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
+      },
+      "src-tx-votetexas": {
+        "id": "src-tx-votetexas",
+        "name": "VoteTexas.gov — Texas Voter Portal",
+        "short": "VoteTexas.gov",
+        "url": "https://www.votetexas.gov/",
+        "publisher": "Texas Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-tx-elections-code": {
+        "id": "src-tx-elections-code",
+        "name": "Texas Election Code (Vernon's Texas Statutes)",
+        "short": "TX Election Code",
+        "url": "https://statutes.capitol.texas.gov/Docs/EL/htm/EL.1.htm",
+        "publisher": "Texas Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-cameron-elections": {
+        "id": "src-cameron-elections",
+        "name": "Cameron County Elections Department",
+        "short": "Cameron Elections",
+        "url": "https://www.cameroncountytx.gov/elections/",
+        "publisher": "Cameron County Elections Department",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Administrator: Remi Garza. Core county for TX-34 voter population."
+      },
+      "src-hidalgo-elections": {
+        "id": "src-hidalgo-elections",
+        "name": "Hidalgo County Elections Department",
+        "short": "Hidalgo Elections",
+        "url": "https://www.hidalgocounty.us/151/Elections-Department",
+        "publisher": "Hidalgo County Elections Department",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-willacy-elections": {
+        "id": "src-willacy-elections",
+        "name": "Willacy County Elections — Texas",
+        "short": "Willacy Elections",
+        "url": "https://www.willacycounty.org/",
+        "publisher": "Willacy County",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Smallest county in TX-34. Check county website for elections office contact."
+      },
+      "src-ballotpedia-tx34": {
+        "id": "src-ballotpedia-tx34",
+        "name": "Ballotpedia — Texas's 34th Congressional District election, 2026",
+        "short": "Ballotpedia TX-34",
+        "url": "https://ballotpedia.org/Texas%27s_34th_Congressional_District_election,_2026",
+        "publisher": "Ballotpedia",
+        "sourceType": "secondary",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "notes": "Confirms Eric Flores (R) advanced primary; Mayra Flores listed as 'Lost Primary'."
+      },
+      "src-tx-tribune": {
+        "id": "src-tx-tribune",
+        "name": "Texas Tribune / Votebeat Texas — Texas elections coverage",
+        "short": "TX Tribune / Votebeat",
+        "url": "https://www.texastribune.org/",
+        "publisher": "Texas Tribune",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-houston-chronicle": {
+        "id": "src-houston-chronicle",
+        "name": "Houston Chronicle — Texas politics & elections",
+        "short": "Houston Chronicle",
+        "url": "https://www.houstonchronicle.com/",
+        "publisher": "Houston Chronicle",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-austin-statesman": {
+        "id": "src-austin-statesman",
+        "name": "Austin American-Statesman — Texas politics",
+        "short": "Austin Statesman",
+        "url": "https://www.statesman.com/",
+        "publisher": "Austin American-Statesman",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-kut": {
+        "id": "src-kut",
+        "name": "KUT — Austin NPR public radio",
+        "short": "KUT",
+        "url": "https://www.kut.org/",
+        "publisher": "KUT Radio (UT Austin)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-houston-public-media": {
+        "id": "src-houston-public-media",
+        "name": "Houston Public Media — Houston-area public radio & news",
+        "short": "Houston Public Media",
+        "url": "https://www.houstonpublicmedia.org/",
+        "publisher": "Houston Public Media",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      },
+      "src-kera": {
+        "id": "src-kera",
+        "name": "KERA — Dallas NPR public radio & news",
+        "short": "KERA",
+        "url": "https://www.kera.org/",
+        "publisher": "KERA (Dallas/Fort Worth NPR)",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-06-11",
+        "lastVerified": "2026-06-11",
+        "confidence": "high"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "evt-tx34-primary-reg-deadline",
+        "milestone": "Voter registration deadline — primary",
+        "electionType": "primary",
+        "date": "2026-02-01",
+        "significance": "Texas requires registration 30 days before election day. Deadline for the March 3, 2026 primary was February 1, 2026. Texas has no same-day registration — no exceptions outside NVRA-covered agency registration.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-tx-votetexas"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-primary-early-start",
+        "milestone": "In-person early voting begins — primary",
+        "electionType": "primary",
+        "date": "2026-02-17",
+        "significance": "Texas provides approximately 12 days of early voting for statewide primaries. Early voting for the March 3, 2026 primary began approximately February 17, 2026. Cameron, Hidalgo, and Willacy counties each operated early voting sites.",
+        "governingAuthority": "Cameron County, Hidalgo County, Willacy County Elections",
+        "sourceIds": [
+          "src-cameron-elections",
+          "src-hidalgo-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-primary-day",
+        "milestone": "Primary election day",
+        "electionType": "primary",
+        "date": "2026-03-03",
+        "significance": "Texas statewide primary (partisan). TX-34 held simultaneous D and R primaries. Vicente Gonzalez Jr. advanced as Democratic nominee; Eric Flores emerged leading the Republican primary field. Results required runoff among Republicans.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-ballotpedia-tx34",
+          "src-cameron-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-runoff-reg-deadline",
+        "milestone": "Voter registration deadline — primary runoff",
+        "electionType": "primary",
+        "date": "2026-04-26",
+        "significance": "Registration deadline for the May 26, 2026 primary runoff (30 days prior: April 26, 2026). Voters who participated in the March primary must stay with the same party in the runoff; those who sat out March may choose either party's runoff ballot.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-tx-votetexas"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-runoff-early-start",
+        "milestone": "In-person early voting begins — primary runoff",
+        "electionType": "primary",
+        "date": "2026-05-12",
+        "significance": "Early voting for the May 26, 2026 primary runoff began approximately May 12, 2026 (roughly 12 days prior). Cameron County Elections Administrator Remi Garza reported early runoff turnout was approximately 50% of March primary levels.",
+        "governingAuthority": "Cameron County, Hidalgo County, Willacy County Elections",
+        "sourceIds": [
+          "src-cameron-elections",
+          "src-hidalgo-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-runoff-day",
+        "milestone": "Primary runoff election day",
+        "electionType": "primary",
+        "date": "2026-05-26",
+        "significance": "Texas primary runoff — May 26, 2026. Republican runoff in TX-34 resulted in Eric Flores defeating Mayra Flores and other challengers to secure the Republican nomination. Vicente Gonzalez Jr. confirmed as Democratic nominee. General election matchup: Gonzalez (D) vs. Eric Flores (R).",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-ballotpedia-tx34",
+          "src-cameron-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-runoff-canvass",
+        "milestone": "Primary runoff canvass certification",
+        "electionType": "primary",
+        "date": "2026-06-16",
+        "significance": "County canvass of runoff results certified and submitted to the Texas Secretary of State approximately 21 days after the May 26 runoff. Official certification confirms Eric Flores as Republican nominee for TX-34.",
+        "governingAuthority": "Cameron County, Hidalgo County, Willacy County Elections",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-cameron-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-general-reg-deadline",
+        "milestone": "Voter registration deadline — general",
+        "electionType": "general",
+        "date": "2026-10-05",
+        "significance": "Texas requires voter registration 30 days before election day. For the November 3, 2026 general election, the registration deadline is October 5, 2026. Texas has NO same-day registration and NO Election Day registration — this deadline is firm.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-votetexas",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-general-vbm-app-deadline",
+        "milestone": "Vote-by-mail application deadline — general",
+        "electionType": "general",
+        "date": "2026-10-23",
+        "significance": "Voters eligible for mail ballots (age 65+, disability, expected absence from county on Election Day, or incarceration awaiting trial) must submit applications by October 23, 2026 (11 days before election day per Texas Election Code § 84.007). Texas does NOT have no-excuse absentee voting.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-tx-votetexas"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-general-early-start",
+        "milestone": "In-person early voting begins — general",
+        "electionType": "general",
+        "date": "2026-10-19",
+        "significance": "Texas provides approximately 17 days of early voting for general elections in counties with 100,000+ registered voters (including Cameron and Hidalgo). Early voting runs approximately October 19 – October 30, 2026. Willacy County (smaller) may have a shorter window.",
+        "governingAuthority": "Cameron County, Hidalgo County, Willacy County Elections",
+        "sourceIds": [
+          "src-cameron-elections",
+          "src-hidalgo-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-general-early-end",
+        "milestone": "In-person early voting ends — general",
+        "electionType": "general",
+        "date": "2026-10-30",
+        "significance": "Last day of early voting before the November 3, 2026 general election. After October 30, voters must cast ballots on Election Day at their assigned precinct polling place.",
+        "governingAuthority": "Cameron County, Hidalgo County, Willacy County Elections",
+        "sourceIds": [
+          "src-cameron-elections",
+          "src-hidalgo-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-general-day",
+        "milestone": "General election day",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "U.S. midterm general election. TX-34: Vicente Gonzalez Jr. (D, incumbent) vs. Eric Flores (R). Polls open 7 AM – 7 PM. Voters must vote at their assigned precinct polling place on Election Day (no countywide vote centers). Race rated Toss-Up by Cook/Crystal Ball.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-ballotpedia-tx34",
+          "src-cameron-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-general-vbm-receipt-instate",
+        "milestone": "Mail ballot receipt deadline — general (in-state voters)",
+        "electionType": "general",
+        "date": "2026-11-03",
+        "significance": "Mail ballots from in-state voters must be received by the county elections office by 7 PM on Election Day (November 3, 2026) to be counted. Unlike California, Texas does NOT accept ballots postmarked by election day but received later — except for military/overseas voters.",
+        "governingAuthority": "Cameron County, Hidalgo County, Willacy County Elections",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-general-vbm-receipt-military",
+        "milestone": "Mail ballot receipt deadline — UOCAVA military/overseas voters",
+        "electionType": "general",
+        "date": "2026-11-08",
+        "significance": "Military and overseas voters covered by UOCAVA have 5 days after Election Day to have ballots received by the county (postmarked by Election Day). Deadline: November 8, 2026. Relevant to TX-34's military-connected voters, including National Guard families.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-general-canvass",
+        "milestone": "County canvass certification deadline — general",
+        "electionType": "general",
+        "date": "2026-11-24",
+        "significance": "Texas county election boards must complete and certify canvass results within 21 days of Election Day (approximately November 24, 2026). Cameron and Hidalgo county results will be submitted to the Secretary of State — or acting SOS — following the leadership transition.",
+        "governingAuthority": "Cameron County, Hidalgo County, Willacy County Elections",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      },
+      {
+        "id": "evt-tx34-general-sos-certification",
+        "milestone": "Secretary of State certification — general",
+        "electionType": "general",
+        "date": "2026-12-02",
+        "significance": "The Texas Secretary of State (or successor after Jane Nelson's July 17 departure) certifies official statewide results, including TX-34. Texas Election Code requires state canvass on the 29th day after the election (approximately December 2, 2026). Leadership uncertainty may affect timelines.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "status": "estimated"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-tx-voter-id",
+        "topic": "Strict photo ID requirement for in-person voting",
+        "currentRule": "Texas requires voters to present an approved photo ID to vote in person. Acceptable IDs: Texas Driver License, Texas Personal ID Card, Texas Election Identification Certificate (EIC), Texas Handgun License, US Military ID, US Citizenship Certificate with photo, US Passport. IDs must not be expired by more than 4 years (except age 70+). Voters who lack ID may vote by Affidavit of Reasonable Impediment and provide a supporting document (utility bill, bank statement, government check, etc.).",
+        "status": "active",
+        "whyItMatters": "TX-34's large Latino population in Cameron and Hidalgo counties has historically had higher rates of voters without qualifying photo ID. The Affidavit of Reasonable Impediment option is critical for eligible voters who lack strict photo ID. Voters should bring ID to the polls.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-tx-votetexas"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Texas Election Code § 63.0101. Enacted via SB 14 (2011), upheld post-litigation. Free EICs available from DPS. Affidavit process added per court order. Verify current approved ID list at VoteTexas.gov before publishing."
+      },
+      {
+        "id": "rule-tx-no-excuse-absentee",
+        "topic": "No no-excuse absentee voting — limited mail ballot eligibility",
+        "currentRule": "Texas does NOT allow no-excuse absentee (vote-by-mail) voting. Mail ballots are only available to: (1) voters age 65 or older; (2) voters with a disability or illness that prevents in-person voting; (3) voters who will be absent from their county of residence on Election Day and all early voting days; (4) voters confined in jail but otherwise eligible. Applications must be submitted well in advance of Election Day.",
+        "status": "active",
+        "whyItMatters": "Most TX-34 voters in Cameron, Hidalgo, and Willacy counties cannot vote by mail unless they meet one of the four qualifying criteria. This is a major distinction from states with no-excuse absentee voting. Voters who do not qualify MUST vote in person during early voting or on Election Day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-tx-votetexas"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Texas Election Code Chapter 82. SB 1 (2021) added additional verification requirements for mail ballot applications and ballot envelopes. Verify current application procedures with Cameron County Elections before publishing."
+      },
+      {
+        "id": "rule-tx-registration-deadline",
+        "topic": "30-day voter registration deadline — no same-day registration",
+        "currentRule": "Texas requires voter registration 30 days before election day. For the November 3, 2026 general election, the deadline is October 5, 2026. Texas has NO conditional (same-day) voter registration and NO Election Day registration. Voters may register online via Texas.gov or by submitting a paper form by the deadline.",
+        "status": "active",
+        "whyItMatters": "TX-34 voters who miss the October 5, 2026 deadline cannot vote in the general election. This is a strict cutoff with no last-minute exception. Voter registration drives in Cameron and Hidalgo counties should target the October 5 deadline well in advance.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-tx-votetexas"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Texas Election Code § 13.143. No equivalent of California's conditional registration. County voter registrar processes applications; county tax assessor-collector is often the voter registrar in Texas counties."
+      },
+      {
+        "id": "rule-tx-drop-boxes-restricted",
+        "topic": "Ballot drop boxes prohibited (SB 1, 2021)",
+        "currentRule": "Texas prohibits all mail ballot drop boxes. Under SB 1 (2021), mail ballots may only be returned by: US mail, in person at the early voting clerk's office by the voter themselves, or in person at a polling place on Election Day. No secure drop boxes are permitted anywhere in Texas — this applies to all TX-34 counties (Cameron, Hidalgo, Willacy).",
+        "status": "active",
+        "whyItMatters": "Voters who receive a mail ballot (age 65+, disabled, absent, or in jail) cannot use drop boxes. They must return their ballot by mail or bring it in person. This affects rural areas of Willacy County where USPS delivery may be less reliable.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "SB 1 (2021) §§ 5.03–5.04. Codified at Texas Election Code § 86.0055 et seq. Enacted after the 2020 general election. No drop boxes of any kind are allowed under current Texas law."
+      },
+      {
+        "id": "rule-tx-sb1-mail-ballot-verification",
+        "topic": "Mail ballot ID number requirement (SB 1, 2021)",
+        "currentRule": "Under SB 1 (2021), voters must include their Texas Driver License number, Texas Personal ID number, or last 4 digits of SSN on their mail ballot application and on the ballot carrier envelope. If the number does not match the voter registration record, the ballot may be rejected. A cure process allows voters to fix mismatches before the canvass.",
+        "status": "active",
+        "whyItMatters": "This requirement has caused mail ballot rejections in TX-34 counties. Cameron and Hidalgo county elections offices have implemented procedures to notify voters of mismatches, but voters must respond promptly to cure their ballot before the canvass deadline.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-tx-tribune"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "SB 1 (2021) adds identification number requirements. Texas Election Code §§ 84.002(a)(1-a), 86.002(g). Cure process per § 87.0411. Rejection rates under this system were elevated in Cameron County in 2022."
+      },
+      {
+        "id": "rule-tx-team-voter-registration",
+        "topic": "TEAM voter registration system and citizenship verification (SAVE)",
+        "currentRule": "Texas uses the Texas Election Administration Management (TEAM) system for voter registration data. Texas also cross-checks voter rolls against the federal Systematic Alien Verification for Entitlements (SAVE) database to verify citizenship. The SAVE database matching process has generated controversy — legitimate citizens have been placed on cancellation lists. Voters receiving notification of a challenge must respond to remain on the rolls.",
+        "status": "active",
+        "whyItMatters": "TX-34's large naturalized-citizen population in Cameron and Hidalgo counties is disproportionately affected by SAVE database matching errors. Naturalized citizens who receive challenge notices must respond promptly with proof of citizenship. Jane Nelson's SOS office implemented this program; the incoming SOS's approach is unknown.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-tx-tribune"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "TEAM system implemented under SB 1 overhaul. SAVE verification per Texas Election Code § 13.0721. Controversy documented in Texas Tribune/Votebeat coverage of Cameron and Hidalgo counties. Verify current status of SAVE challenges with Cameron County voter registrar."
+      },
+      {
+        "id": "rule-tx-party-alignment-runoff",
+        "topic": "Party alignment rule — primary runoff",
+        "currentRule": "Under Texas law, voters who participated in a March 2026 primary must vote in the same party's runoff on May 26, 2026. A voter who cast a Democratic primary ballot in March may only vote in the Democratic runoff; same for Republicans. However, voters who sat out the March primary may freely choose either party's runoff ballot.",
+        "status": "active",
+        "whyItMatters": "Cameron County Elections Administrator Remi Garza specifically clarified this rule for TX-34 voters on May 26 runoff day. Voters who tried to cross party lines in the runoff would be directed to the correct party's ballot or could vote a provisional ballot. This does NOT apply to the November 3 general election, where all voters may vote for any candidate.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-elections-code",
+          "src-cameron-elections",
+          "src-tx-sos-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Texas Election Code § 172.081. The party alignment rule applies only to primaries and runoffs, not general elections. In November, TX-34 voters may vote for Gonzalez (D), Flores (R), or any qualifying third-party candidate."
+      },
+      {
+        "id": "rule-tx-polling-place-assignment",
+        "topic": "Precinct-based polling places on Election Day",
+        "currentRule": "On Election Day (November 3, 2026), Texas voters must vote at their assigned precinct polling place. Unlike California's countywide vote centers, Texas does not generally allow Election Day voting at any county polling location — voters who go to the wrong precinct may receive a limited 'residence ballot' for non-precinct races or be directed to their correct location.",
+        "status": "active",
+        "whyItMatters": "TX-34 voters in Cameron and Hidalgo counties should confirm their assigned Election Day polling place in advance at VoteTexas.gov. Precinct boundaries may have changed following the 2025 redistricting boundary review noted by the Texas SOS. During early voting, any early voting site in the voter's county may be used.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-cameron-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Texas Election Code § 42.001. Precinct-based voting on Election Day is standard. Cameron County had precinct boundary changes effective 2026 per TX SOS guidance. Check VoteTexas.gov voter portal for assigned polling place."
+      },
+      {
+        "id": "rule-tx-provisional-ballots",
+        "topic": "Provisional ballots",
+        "currentRule": "Texas voters who cannot be found on the official voter rolls, who lack acceptable ID and decline to sign a Reasonable Impediment Affidavit, or who vote outside their assigned precinct on Election Day may cast a provisional ballot. Provisional ballots are reviewed during the canvass and counted only after eligibility is confirmed. Voters have 6 days after Election Day to provide any required documentation (e.g., photo ID, citizenship documents).",
+        "status": "active",
+        "whyItMatters": "Provisional ballots in TX-34 are especially relevant for voters impacted by TEAM/SAVE database errors, new voters whose registration was not fully processed, and voters at the wrong precinct. In a toss-up race, provisional ballot counts can be race-determinative.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Texas Election Code § 65.051 et seq. 6-day cure window per § 65.054. Voter may check provisional ballot status at VoteTexas.gov after Election Day."
+      },
+      {
+        "id": "rule-tx-early-voting-schedule",
+        "topic": "Extended early voting window for large counties",
+        "currentRule": "Texas provides at least 17 days of early voting for general elections in counties with 100,000 or more registered voters. Cameron County (approx. 200,000 registered voters) and Hidalgo County qualify. Willacy County (smaller) has a shorter early voting window. Early voting runs approximately October 19 – October 30, 2026. Early voting hours must include at least one weekday evening or Saturday hour.",
+        "status": "active",
+        "whyItMatters": "The extended early voting window is the primary voting option for most TX-34 voters who cannot or prefer not to vote on Election Day. No mail ballot is available for most voters, making early voting especially important in Cameron and Hidalgo counties.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code",
+          "src-cameron-elections"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Texas Election Code §§ 85.001, 85.064. Large counties (100K+ registered voters) receive extended early voting. Specific site hours/locations published by Cameron County and Hidalgo County elections offices closer to the election."
+      },
+      {
+        "id": "rule-tx-sos-leadership-vacuum",
+        "topic": "Texas SOS leadership vacuum — Jane Nelson resignation July 17, 2026",
+        "currentRule": "Texas Secretary of State Jane Nelson announced her resignation effective July 17, 2026 — approximately 109 days before the November 3 general election. As of June 11, 2026, Governor Greg Abbott has not named a successor. The SOS is the state's chief election officer responsible for issuing guidance to all 254 county election administrators, including Cameron, Hidalgo, and Willacy counties in TX-34.",
+        "status": "watch",
+        "whyItMatters": "A new SOS appointment could issue new procedural directives affecting ballot procedures, TEAM system operations, SAVE verification, and county election guidance. County administrators in TX-34 are operating in a period of uncertainty during the critical summer ramp-up for the November election. Votebeat Texas has specifically noted this concern for South Texas counties.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-tribune"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Jane Nelson resignation press release: sos.state.tx.us/about/newsreleases/2026/060226.shtml. Texas Tribune/Votebeat coverage June 8, 2026. Monitor Gov. Abbott's office for appointment announcement and any resulting guidance changes."
+      },
+      {
+        "id": "rule-tx-canvass-certification",
+        "topic": "Canvass and certification timeline",
+        "currentRule": "Texas county election boards must complete and certify canvass results no later than 21 days after Election Day (approximately November 24, 2026). The Secretary of State conducts the state canvass on the 29th day after the election (approximately December 2, 2026). In a toss-up race like TX-34, results may not be final until the full canvass is complete.",
+        "status": "active",
+        "whyItMatters": "TX-34 is rated a national toss-up. Mail ballots (from eligible voters), provisional ballots, and UOCAVA overseas/military ballots are all counted during the canvass. The county canvass deadline of November 24, 2026 is the first definitive result. State canvass on ~December 2 is final.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-elections-code"
+        ],
+        "confidence": "unconfirmed",
+        "lastVerified": "2026-06-11",
+        "needsReview": true,
+        "detail": "Texas Election Code § 67.003 (county canvass within 11–21 days); § 67.012 (state canvass on 29th day). UOCAVA ballots received through November 8 included. Leadership vacuum noted — confirm state canvass procedures with incoming SOS."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-tx-votetexas",
+        "label": "VoteTexas.gov — Official Texas voter portal",
+        "url": "https://www.votetexas.gov/",
+        "description": "Official Texas voter portal: check registration status, find polling places, view accepted ID list, confirm early voting schedule, and access mail ballot information. Primary voter-facing resource for TX-34 voters in Cameron, Hidalgo, and Willacy counties.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-tx-votetexas",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-tx-register",
+        "label": "Texas voter registration — Texas.gov",
+        "url": "https://www.texas.gov/living-in-texas/drive-and-travel/register-to-vote/",
+        "description": "Online voter registration portal for Texas. Deadline for November 3, 2026 general election: October 5, 2026. No same-day registration. Available in English and Spanish.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-tx-sos-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-tx-sos-elections",
+        "label": "Texas SOS — Elections Division",
+        "url": "https://www.sos.state.tx.us/elections/index.shtml",
+        "description": "Texas Secretary of State Elections Division: official election calendars, candidate information, county election administrator contacts, and voter resources. Note: Jane Nelson resigned effective July 17, 2026; check for successor guidance closer to the election.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-tx-sos-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-cameron-elections",
+        "label": "Cameron County Elections Department",
+        "url": "https://www.cameroncountytx.gov/elections/",
+        "description": "Official elections page for Cameron County voters (Brownsville, Harlingen, San Benito area) — the core county of TX-34. Early voting sites, polling places, voter registration, and canvass updates. Elections Administrator: Remi Garza.",
+        "governingAuthority": "Cameron County Elections Department",
+        "sourceType": "official-county",
+        "sourceId": "src-cameron-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-hidalgo-elections",
+        "label": "Hidalgo County Elections Department",
+        "url": "https://www.hidalgocounty.us/151/Elections-Department",
+        "description": "Official elections page for Hidalgo County voters (McAllen, Edinburg, Mission area). Parts of Hidalgo County fall within TX-34. Early voting sites, polling places, and voter registration information.",
+        "governingAuthority": "Hidalgo County Elections Department",
+        "sourceType": "official-county",
+        "sourceId": "src-hidalgo-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-willacy-elections",
+        "label": "Willacy County — Elections (Texas)",
+        "url": "https://www.willacycounty.org/",
+        "description": "Willacy County government website for voters in the northernmost portion of TX-34 (Raymondville area). Contact the county for elections-specific information and polling place locations.",
+        "governingAuthority": "Willacy County",
+        "sourceType": "official-county",
+        "sourceId": "src-willacy-elections",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-tx-voter-id-guide",
+        "label": "Texas Voter ID — Accepted Photo ID List (VoteTexas.gov)",
+        "url": "https://www.votetexas.gov/voters/need-an-id.html",
+        "description": "Official guide to Texas's strict photo ID requirement. Lists all 7 accepted photo IDs, the free Election Identification Certificate (EIC) process through DPS, and the Affidavit of Reasonable Impediment option for voters who cannot obtain qualifying ID.",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-tx-votetexas",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-ballotpedia-tx34",
+        "label": "Ballotpedia — TX-34 2026 election",
+        "url": "https://ballotpedia.org/Texas%27s_34th_Congressional_District_election,_2026",
+        "description": "Nonpartisan reference for TX-34's 2026 election: candidate profiles, primary and runoff results, race ratings, campaign finance. Confirms Eric Flores (R) as Republican nominee; Mayra Flores listed as Lost Primary.",
+        "governingAuthority": "Ballotpedia",
+        "sourceType": "secondary",
+        "sourceId": "src-ballotpedia-tx34",
+        "lastVerified": "2026-06-11"
+      },
+      {
+        "id": "res-tx-tribune-votebeat",
+        "label": "Texas Tribune / Votebeat Texas — elections reporting",
+        "url": "https://www.texastribune.org/series/votebeat/",
+        "description": "Nonpartisan election journalism from Texas Tribune and Votebeat Texas — covers TX-34 county elections offices, SOS leadership transition, TEAM voter registration system issues, and SB 1 mail ballot rule changes.",
+        "governingAuthority": "Texas Tribune",
+        "sourceType": "news",
+        "sourceId": "src-tx-tribune",
+        "lastVerified": "2026-06-11"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-tx34-001",
+        "title": "TX-34 dashboard initialized — 13 sources, 16 events, 12 rules wired",
+        "fieldChanged": "Dashboard configuration",
+        "oldValue": "Not configured",
+        "newValue": "Initial build June 11, 2026. All 13 sources (TX SOS, VoteTexas.gov, TX Election Code, Cameron/Hidalgo/Willacy county elections, Ballotpedia, TX Tribune/Votebeat, Houston Chronicle, Austin Statesman, KUT, Houston Public Media, KERA) verified. 16 election events covering both the March/May primary cycle and November general election; 12 voting rules covering Texas-specific ID, absentee, drop box, SB1, TEAM/SAVE, and runoff alignment requirements — all marked needsReview/unconfirmed pending authoritative county confirmation.",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-cameron-elections",
+          "src-hidalgo-elections",
+          "src-ballotpedia-tx34"
+        ],
+        "detectedAt": "2026-06-11T20:00:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      },
+      {
+        "id": "upd-tx34-002",
+        "title": "TX-34 primary runoff called — Vicente Gonzalez (D) vs. Eric Flores (R) confirmed for Nov 3 general [NOTE: NOT Mayra Flores]",
+        "fieldChanged": "General election candidates",
+        "oldValue": "Primary runoff pending (May 26, 2026)",
+        "newValue": "Vicente Gonzalez Jr. (D, incumbent) and Eric Flores (R) confirmed as general election nominees after the May 26, 2026 primary runoff. IMPORTANT CORRECTION: The Republican nominee is Eric Flores — a 34-year-old Army veteran and former federal prosecutor. KRGV's June 6, 2026 video headline erroneously named 'Mayra Flores' as the Republican winner; Ballotpedia, Fox News (June 4), Prediction Edge/FEC data, and Eric Flores's own campaign all confirm Eric Flores won the Republican primary runoff. Mayra Flores (former Congresswoman) lost the primary. See CONFLICTS for full documentation.",
+        "sourceIds": [
+          "src-ballotpedia-tx34",
+          "src-tx-sos-elections"
+        ],
+        "detectedAt": "2026-05-26T23:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "public"
+      },
+      {
+        "id": "upd-tx34-003",
+        "title": "Texas SOS Jane Nelson resignation effective July 17, 2026 — uncertainty for Cameron/Hidalgo county election admins",
+        "fieldChanged": "Governing authority status",
+        "oldValue": "Texas SOS Jane Nelson in office",
+        "newValue": "Texas Secretary of State Jane Nelson announced resignation effective July 17, 2026 (press release June 2, 2026). Gov. Abbott has not named a successor as of June 11, 2026. This creates a leadership vacuum at the state's chief election authority 109 days before the November 3 general election. Cameron and Hidalgo county election administrators — who rely on SOS guidance for TEAM system operations, SAVE verification, and procedural directives — are in a period of uncertainty during critical summer preparations. Texas Tribune/Votebeat Texas reported county officials are alarmed; Emily Eby French of Common Cause Texas warned of potential 'chaos and confusion for voters.' All TX-34 rules and events should be re-verified against any directives issued by the incoming SOS.",
+        "sourceIds": [
+          "src-tx-sos-elections",
+          "src-tx-tribune"
+        ],
+        "detectedAt": "2026-06-02T00:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "internal_only"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conf-tx34-001",
+        "factInQuestion": "Identity of the Republican general election nominee for TX-34 in November 2026",
+        "sourceAId": "src-ballotpedia-tx34",
+        "sourceAClaim": "Ballotpedia confirms: 'Eric Flores, Republican, Advanced Primary' and 'Mayra Flores, Republican, Lost Primary.' Fox News (June 4, 2026) confirmed Eric Flores as the Republican nominee. Prediction Edge, sourcing FEC data, confirms Eric Flores won the Republican primary runoff. Eric Flores himself confirmed his nomination in a Fox News interview.",
+        "sourceBId": "src-tx-tribune",
+        "sourceBClaim": "KRGV (Rio Grande Valley NBC affiliate), in a June 6, 2026 video report headlined 'Unofficial election results: Vicente Gonzalez, Mayra Flores win nominations in District 34 race,' projected Mayra Flores as the Republican winner — this appears to be a reporting error. The KRGV headline preserves the original text for transparency, but the relevanceSummary in the NEWS entry notes the correction.",
+        "whyItMatters": "KRGV is the primary local TV news source for TX-34 Rio Grande Valley voters. If voters rely on the KRGV headline without reading the correction, they may be misled about which Republican candidate is on the November 3 ballot. The confirmed Republican nominee is Eric Flores (Army veteran, former federal prosecutor), NOT Mayra Flores (former Congresswoman who lost the primary). This distinction matters for voter research, candidate comparison, and civic data accuracy.",
+        "suggestedReviewAction": "Verify directly with Cameron County Elections and/or the Texas SOS certified results for the May 26, 2026 Republican primary runoff in TX-34 CD. Confirm Eric Flores's name as it will appear on the November 3, 2026 general election ballot. Update the NEWS entry for news-tx34-003 to clearly flag the KRGV correction. Do not use KRGV's June 6 headline as the sole source for candidate identity.",
+        "severity": "high",
+        "status": "unresolved",
+        "createdAt": "2026-06-11T20:00:00Z"
+      }
+    ],
+    "NEWS": [
+      {
+        "id": "news-tx34-001",
+        "headline": "Texas Secretary of State Jane Nelson Stepping Down After Three and a Half Years as Head of the Agency",
+        "sourceName": "Texas Secretary of State (sos.state.tx.us)",
+        "url": "https://www.sos.state.tx.us/about/newsreleases/2026/060226.shtml",
+        "publishedAt": "2026-06-02",
+        "relevanceSummary": "Texas Secretary of State Jane Nelson announced her resignation effective July 17, 2026, departing just months before the November 3 general election in which TX-34 voters will choose between Vicente Gonzalez and Eric Flores. The transition creates uncertainty for all 254 Texas counties — including Cameron and Hidalgo, which serve the bulk of TX-34 voters — as summer midterm preparations (worker recruitment, polling site selection, voter registration processing) ramp up. Nelson's tenure included the rollout of the TEAM voter registration system and a controversial citizenship-verification sweep using the federal SAVE database, both of which directly impacted South Texas county election offices. Gov. Greg Abbott has not yet named a successor, leaving local administrators without confirmed guidance for the general election cycle.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-002",
+        "headline": "Local Texas election officials await appointment of new secretary of state as midterm preparations ramp up",
+        "sourceName": "Texas Tribune / Votebeat Texas",
+        "url": "https://www.texastribune.org/2026/06/08/texas-2026-midterm-new-secretary-of-state-election-officials/",
+        "publishedAt": "2026-06-08",
+        "relevanceSummary": "Votebeat Texas reporter Natalia Contreras, writing for the Texas Tribune, details how county election administrators are alarmed by the leadership vacuum left by Jane Nelson's resignation ahead of the November 2026 general election. Cameron County and neighboring Hidalgo County — the two largest counties in TX-34 — rely heavily on the state's TEAM voter registration system, which has repeatedly malfunctioned since its overhaul; a new politically-inclined SOS appointment could worsen those problems. The article quotes officials warning that a new secretary could issue procedural directives that create 'chaos and confusion for voters,' a concern highly relevant to TX-34's anticipated high-turnout general election in one of the nation's most competitive House districts. Emily Eby French of Common Cause Texas warned the state could return to a 'period of instability' that would directly affect voters in South Texas.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-003",
+        "headline": "Unofficial election results: Vicente Gonzalez, Mayra Flores win nominations in District 34 race",
+        "sourceName": "KRGV (Rio Grande Valley NBC affiliate)",
+        "url": "https://www.krgv.com/videos/unofficial-election-results-vicente-gonzalez-mayra-flores-win-nominations-in-district-34-race/",
+        "publishedAt": "2026-06-06",
+        "relevanceSummary": "KRGV reported post-runoff that Vicente Gonzalez secured the Democratic nomination for TX-34. NOTE — SOURCING ERROR IN HEADLINE: KRGV's headline names 'Mayra Flores' as the Republican nominee, but this is a reporting error. All corroborating sources — Ballotpedia, Fox News (June 4), Prediction Edge/FEC data — confirm the Republican primary runoff winner is ERIC FLORES (not Mayra Flores). Mayra Flores (former Congresswoman) lost the Republican primary. The confirmed general election matchup is Vicente Gonzalez Jr. (D) vs. Eric Flores (R) on November 3, 2026. See CONFLICTS (conf-tx34-001) for full documentation of this discrepancy.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-004",
+        "headline": "Cameron County voters head to polls for primary runoff election",
+        "sourceName": "Cameron County / KRGV",
+        "url": "https://www.krgv.com/news/cameron-county-voters-head-to-polls-for-primary-runoff-election/",
+        "publishedAt": "2026-05-26",
+        "relevanceSummary": "Cameron County Elections Administrator Remi Garza provided on-the-ground guidance to TX-34 voters on May 26 runoff day, reminding them of Texas's party-alignment rules: voters who participated in the March primary must stay with that party through the runoff, while those who sat out the March primary could choose either party's ballot. Garza noted Cameron County early voting turnout was roughly 50% of the March primary level, with high Election Day turnout expected. This article reflects voter education directly reaching Cameron County constituents — the core geographic base of TX-34 — and clarifies that November general election voters may cross party lines freely, relevant to the anticipated Gonzalez vs. Eric Flores contest.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-005",
+        "headline": "Republican Eric Flores says Democrats 'missed the cue' with Hispanic voters in TX-34",
+        "sourceName": "Fox News",
+        "url": "https://www.foxnews.com/politics/exclusive-video-dems-face-major-defeat-after-party-missed-cue-top-targeted-district-candidate",
+        "publishedAt": "2026-06-04",
+        "relevanceSummary": "Republican nominee Eric Flores, a 34-year-old Army veteran and former federal prosecutor from the Rio Grande Valley, gave his first major post-primary interview arguing that South Texas Hispanic voters — who make up the overwhelming majority of TX-34's electorate in Cameron and Hidalgo counties — are shifting toward the GOP on faith, family values, and cost-of-living concerns. Flores described TX-34 as 'the number one targeted seat in the entire nation' and criticized incumbent Vicente Gonzalez for lacking substantive legislative wins for the Valley. This article confirms the general election matchup is Gonzalez vs. Eric Flores (NOT Mayra Flores), and that fundraising is nearly tied (Gonzalez raised $1.1M Q1 vs. Flores $1.2M Q1), with a co/efficient poll showing the race at 41 Flores–40 Gonzalez — essentially a toss-up affecting TX-34 Cameron County voters.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-006",
+        "headline": "Secretary of State Encourages Voters to Review Official Election Information Ahead of Primary Runoff",
+        "sourceName": "Texas Secretary of State (sos.state.tx.us)",
+        "url": "https://www.sos.state.tx.us/elections/candidates/guide/2026/faqs.shtml",
+        "publishedAt": "2026-06-09",
+        "relevanceSummary": "The Texas Secretary of State's office issued updated candidate and party affiliation FAQs for the 2026 cycle covering crossover voting rules, precinct boundary changes stemming from redistricting, and candidate eligibility requirements — all directly applicable to TX-34 voters and candidates in Cameron and Hidalgo counties, which underwent redistricting. The guidance clarifies that voters who did not participate in either March primary may choose either party's runoff ballot, a key voter-resource point for the larger TX-34 electorate ahead of the November general election. The SOS office also noted new county election precinct boundaries from a March/April 2025 review are in effect for 2026, which Cameron County voters need to be aware of when locating their correct polling place for the November 3 general election.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      }
+    ],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-11-tx-34-initial",
+      "startedAt": "2026-06-11T20:00:00Z",
+      "completedAt": "2026-06-11T20:45:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 13,
+      "updatesCreated": 0,
+      "conflictsCreated": 1,
+      "errors": [],
+      "summary": "Initial build June 11, 2026. TX-34 (South Texas / Rio Grande Valley): Cameron, Hidalgo (parts), Willacy. 13 sources verified. CRITICAL: Republican nominee is ERIC FLORES — KRGV June 6 headline erroneously named Mayra Flores; Ballotpedia, Fox News, FEC data all confirm Eric Flores. Conflict conf-tx34-001 documents this discrepancy. Texas SOS Jane Nelson resigned July 17, 2026 — governance uncertainty flagged in update upd-tx34-003. Primary cycle (March 3 + May 26 runoff) complete; general election Nov 3, 2026. All 16 events and 12 rules marked needsReview/unconfirmed pending Cameron/Hidalgo/Willacy county verification and incoming SOS guidance."
+    },
+    "NEXT_REFRESH_AT": "2026-06-18T20:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-tx34-2026-w24",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 13,
+      "newUpdates": 3,
+      "conflictsCreated": 1,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 12,
+      "sourceErrors": 0,
+      "summary": "Initial build week of June 8–14, 2026. TX-34 (Cameron, Hidalgo parts, Willacy) dashboard created post-runoff. KEY FLAG: Republican nominee is Eric Flores — NOT Mayra Flores as erroneously reported by KRGV June 6. Gonzalez (D) vs. Eric Flores (R) set for November 3. Texas SOS Jane Nelson resigned July 17 — governance uncertainty documented. General election timeline covers registration deadline Oct 5 (30-day rule, no same-day), VBM application deadline Oct 23 (limited eligibility: 65+/disability/absence/jail), early voting Oct 19–30, Election Day Nov 3 (precinct-based, 7AM–7PM), VBM receipt by 7PM election day (in-state) or Nov 8 (military/overseas), county canvass Nov 24, state canvass Dec 2. All 12 rules and 16 events flagged needsReview.",
+      "generatedAt": "2026-06-11T20:45:00Z"
+    }
+  }
+}
