@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-11",
-  "updatedAt": "2026-06-11T20:45:00Z",
-  "exportedAt": "2026-07-01T05:40:40.049Z",
+  "dataAsOf": "2026-07-01",
+  "updatedAt": "2026-07-01T19:57:31.719Z",
+  "exportedAt": "2026-07-01T20:04:32.412Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-07-01",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -479,7 +479,7 @@
       {
         "id": "rule-tx-voter-id",
         "topic": "Strict photo ID requirement for in-person voting",
-        "currentRule": "Texas requires voters to present an approved photo ID to vote in person. Acceptable IDs: Texas Driver License, Texas Personal ID Card, Texas Election Identification Certificate (EIC), Texas Handgun License, US Military ID, US Citizenship Certificate with photo, US Passport. IDs must not be expired by more than 4 years (except age 70+). Voters who lack ID may vote by Affidavit of Reasonable Impediment and provide a supporting document (utility bill, bank statement, government check, etc.).",
+        "currentRule": "Texas requires voters to present one of seven acceptable forms of photo ID when voting in person: Texas Driver License, Texas Election Identification Certificate, Texas Personal Identification Card, Texas Handgun License, U.S. Military Identification Card, U.S. Citizenship Certificate containing the person’s photograph, or U.S. Passport (book or card). For voters aged 18–69, the ID must be current or have expired no more than 4 years before being presented; voters aged 70 or older may use an acceptable ID that is expired if otherwise valid. Voters who do not possess and cannot reasonably obtain an acceptable photo ID may fill out a Reasonable Impediment Declaration and present an alternative supporting form of ID, such as a utility bill, bank statement, government check, paycheck, voter registration certificate, or certain government documents.",
         "status": "active",
         "whyItMatters": "TX-34's large Latino population in Cameron and Hidalgo counties has historically had higher rates of voters without qualifying photo ID. The Affidavit of Reasonable Impediment option is critical for eligible voters who lack strict photo ID. Voters should bring ID to the polls.",
         "governingLevel": "statewide",
@@ -896,17 +896,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-11-tx-34-initial",
-      "startedAt": "2026-06-11T20:00:00Z",
-      "completedAt": "2026-06-11T20:45:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 13,
-      "updatesCreated": 0,
-      "conflictsCreated": 1,
+      "id": "run-2026-07-01-tx34-auto",
+      "startedAt": "2026-07-01T19:57:27.041Z",
+      "completedAt": "2026-07-01T19:57:31.719Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 12,
+      "updatesCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build June 11, 2026. TX-34 (South Texas / Rio Grande Valley): Cameron, Hidalgo (parts), Willacy. 13 sources verified. CRITICAL: Republican nominee is ERIC FLORES — KRGV June 6 headline erroneously named Mayra Flores; Ballotpedia, Fox News, FEC data all confirm Eric Flores. Conflict conf-tx34-001 documents this discrepancy. Texas SOS Jane Nelson resigned July 17, 2026 — governance uncertainty flagged in update upd-tx34-003. Primary cycle (March 3 + May 26 runoff) complete; general election Nov 3, 2026. All 16 events and 12 rules marked needsReview/unconfirmed pending Cameron/Hidalgo/Willacy county verification and incoming SOS guidance."
+      "summary": "Automated refresh completed 2026-07-01 for TX-34. Sources checked: 12. LLM verifications: 1. 1 rule/source content change + 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-06-18T20:00:00Z",
+    "NEXT_REFRESH_AT": "2026-07-08T19:57:31.719Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
