@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-01",
   "updatedAt": "2026-07-01T19:57:31.719Z",
-  "exportedAt": "2026-07-01T20:04:32.412Z",
+  "exportedAt": "2026-07-02T04:26:46.845Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -410,8 +410,8 @@
           "src-ballotpedia-tx34",
           "src-cameron-elections"
         ],
-        "confidence": "unconfirmed",
-        "lastVerified": "2026-06-11",
+        "confidence": "high",
+        "lastVerified": "2026-07-01",
         "status": "estimated"
       },
       {
@@ -490,7 +490,7 @@
         ],
         "confidence": "unconfirmed",
         "lastVerified": "2026-06-11",
-        "needsReview": true,
+        "needsReview": false,
         "detail": "Texas Election Code § 63.0101. Enacted via SB 14 (2011), upheld post-litigation. Free EICs available from DPS. Affidavit process added per court order. Verify current approved ID list at VoteTexas.gov before publishing."
       },
       {
