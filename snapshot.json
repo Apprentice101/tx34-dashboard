@@ -1,8 +1,8 @@
 {
   "version": "1",
   "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T06:26:16.546Z",
-  "exportedAt": "2026-07-08T06:29:49.673Z",
+  "updatedAt": "2026-07-08T19:39:04.944Z",
+  "exportedAt": "2026-07-08T19:44:31.600Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -897,16 +897,16 @@
     ],
     "LAST_REFRESH": {
       "id": "run-2026-07-08-tx34-auto",
-      "startedAt": "2026-07-08T06:26:14.906Z",
-      "completedAt": "2026-07-08T06:26:16.546Z",
+      "startedAt": "2026-07-08T19:39:04.537Z",
+      "completedAt": "2026-07-08T19:39:04.944Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
+      "sourcesChecked": 12,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for TX-34. Sources checked: 14. LLM verifications: 5. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-08 for TX-34. Sources checked: 12. LLM verifications: 2. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T06:26:16.546Z",
+    "NEXT_REFRESH_AT": "2026-07-15T19:39:04.944Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
