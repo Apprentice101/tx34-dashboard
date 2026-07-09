@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:39:04.944Z",
-  "exportedAt": "2026-07-08T20:36:30.727Z",
+  "exportedAt": "2026-07-09T17:05:22.724Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -679,70 +679,80 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-tx-votetexas",
-        "label": "VoteTexas.gov — Official Texas voter portal",
-        "url": "https://www.votetexas.gov/",
-        "description": "Official Texas voter portal: check registration status, find polling places, view accepted ID list, confirm early voting schedule, and access mail ballot information. Primary voter-facing resource for TX-34 voters in Cameron, Hidalgo, and Willacy counties.",
-        "governingAuthority": "Texas Secretary of State",
-        "sourceType": "official-state",
-        "sourceId": "src-tx-votetexas",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-tx-register",
-        "label": "Texas voter registration — Texas.gov",
-        "url": "https://www.texas.gov/living-in-texas/drive-and-travel/register-to-vote/",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Online voter registration portal for Texas. Deadline for November 3, 2026 general election: October 5, 2026. No same-day registration. Available in English and Spanish.",
+        "url": "https://www.texas.gov/living-in-texas/drive-and-travel/register-to-vote/",
         "governingAuthority": "Texas Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-tx-sos-elections",
-        "lastVerified": "2026-06-11"
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Official Texas voter portal: check registration status, find polling places, view accepted ID list, confirm early voting schedule, and access mail ballot information. Primary voter-facing resource for TX-34 voters in Cameron, Hidalgo, and Willacy counties.",
+        "url": "https://www.votetexas.gov/",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-tx-votetexas",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "This county does not use drop boxes. Official instructions for returning a ballot by mail or hand-delivery to the Cameron County Elections Office.",
+        "url": "https://www.cameroncountytx.gov/elections/index.php/bbm-instructions/",
+        "governingAuthority": "Cameron County Department of Elections and Voter Registration",
+        "sourceType": "official-county",
+        "sourceId": "src-tx34-county",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Official Texas voter portal: check registration status, find polling places, view accepted ID list, confirm early voting schedule, and access mail ballot information. Primary voter-facing resource for TX-34 voters in Cameron, Hidalgo, and Willacy counties.",
+        "url": "https://www.votetexas.gov/",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-tx-votetexas",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Track a Texas ballot by mail.",
+        "url": "https://teamrv-mvp.sos.texas.gov/BallotTrackerApp/#/login",
+        "governingAuthority": "Texas Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-tx-sos",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official elections page for Cameron County voters (Brownsville, Harlingen, San Benito area) — the core county of TX-34. Early voting sites, polling places, voter registration, and canvass updates. Elections Administrator: Remi Garza.",
+        "url": "https://www.cameroncountytx.gov/elections/",
+        "governingAuthority": "Cameron County Elections Department",
+        "sourceType": "official-county",
+        "sourceId": "src-cameron-elections",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-tx-sos-elections",
         "label": "Texas SOS — Elections Division",
-        "url": "https://www.sos.state.tx.us/elections/index.shtml",
         "description": "Texas Secretary of State Elections Division: official election calendars, candidate information, county election administrator contacts, and voter resources. Note: Jane Nelson resigned effective July 17, 2026; check for successor guidance closer to the election.",
+        "url": "https://www.sos.state.tx.us/elections/index.shtml",
         "governingAuthority": "Texas Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-tx-sos-elections",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-cameron-elections",
-        "label": "Cameron County Elections Department",
-        "url": "https://www.cameroncountytx.gov/elections/",
-        "description": "Official elections page for Cameron County voters (Brownsville, Harlingen, San Benito area) — the core county of TX-34. Early voting sites, polling places, voter registration, and canvass updates. Elections Administrator: Remi Garza.",
-        "governingAuthority": "Cameron County Elections Department",
-        "sourceType": "official-county",
-        "sourceId": "src-cameron-elections",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-hidalgo-elections",
-        "label": "Hidalgo County Elections Department",
-        "url": "https://www.hidalgocounty.us/151/Elections-Department",
-        "description": "Official elections page for Hidalgo County voters (McAllen, Edinburg, Mission area). Parts of Hidalgo County fall within TX-34. Early voting sites, polling places, and voter registration information.",
-        "governingAuthority": "Hidalgo County Elections Department",
-        "sourceType": "official-county",
-        "sourceId": "src-hidalgo-elections",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-willacy-elections",
-        "label": "Willacy County — Elections (Texas)",
-        "url": "https://www.willacycounty.org/",
-        "description": "Willacy County government website for voters in the northernmost portion of TX-34 (Raymondville area). Contact the county for elections-specific information and polling place locations.",
-        "governingAuthority": "Willacy County",
-        "sourceType": "official-county",
-        "sourceId": "src-willacy-elections",
         "lastVerified": "2026-06-11"
       },
       {
         "id": "res-tx-voter-id-guide",
         "label": "Texas Voter ID — Accepted Photo ID List (VoteTexas.gov)",
-        "url": "https://www.votetexas.gov/voters/need-an-id.html",
         "description": "Official guide to Texas's strict photo ID requirement. Lists all 7 accepted photo IDs, the free Election Identification Certificate (EIC) process through DPS, and the Affidavit of Reasonable Impediment option for voters who cannot obtain qualifying ID.",
+        "url": "https://www.votetexas.gov/voters/need-an-id.html",
         "governingAuthority": "Texas Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-tx-votetexas",
@@ -751,21 +761,11 @@
       {
         "id": "res-ballotpedia-tx34",
         "label": "Ballotpedia — TX-34 2026 election",
-        "url": "https://ballotpedia.org/Texas%27s_34th_Congressional_District_election,_2026",
         "description": "Nonpartisan reference for TX-34's 2026 election: candidate profiles, primary and runoff results, race ratings, campaign finance. Confirms Eric Flores (R) as Republican nominee; Mayra Flores listed as Lost Primary.",
+        "url": "https://ballotpedia.org/Texas%27s_34th_Congressional_District_election,_2026",
         "governingAuthority": "Ballotpedia",
         "sourceType": "secondary",
         "sourceId": "src-ballotpedia-tx34",
-        "lastVerified": "2026-06-11"
-      },
-      {
-        "id": "res-tx-tribune-votebeat",
-        "label": "Texas Tribune / Votebeat Texas — elections reporting",
-        "url": "https://www.texastribune.org/series/votebeat/",
-        "description": "Nonpartisan election journalism from Texas Tribune and Votebeat Texas — covers TX-34 county elections offices, SOS leadership transition, TEAM voter registration system issues, and SB 1 mail ballot rule changes.",
-        "governingAuthority": "Texas Tribune",
-        "sourceType": "news",
-        "sourceId": "src-tx-tribune",
         "lastVerified": "2026-06-11"
       }
     ],
