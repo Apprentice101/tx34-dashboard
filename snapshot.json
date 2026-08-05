@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:49:06.789Z",
-  "exportedAt": "2026-07-29T06:57:04.866Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:42:43.133Z",
+  "exportedAt": "2026-08-05T06:50:46.376Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -896,17 +896,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-tx34-auto",
-      "startedAt": "2026-07-29T06:49:02.026Z",
-      "completedAt": "2026-07-29T06:49:06.789Z",
+      "id": "run-2026-08-05-tx34-auto",
+      "startedAt": "2026-08-05T06:42:37.209Z",
+      "completedAt": "2026-08-05T06:42:43.133Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:49:06.789Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:42:43.133Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
