@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:43:01.598Z",
-  "exportedAt": "2026-08-12T05:50:07.424Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T05:01:52.775Z",
+  "exportedAt": "2026-08-19T05:10:05.992Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -893,20 +893,100 @@
         "relevanceSummary": "The Texas Secretary of State's office issued updated candidate and party affiliation FAQs for the 2026 cycle covering crossover voting rules, precinct boundary changes stemming from redistricting, and candidate eligibility requirements — all directly applicable to TX-34 voters and candidates in Cameron and Hidalgo counties, which underwent redistricting. The guidance clarifies that voters who did not participate in either March primary may choose either party's runoff ballot, a key voter-resource point for the larger TX-34 electorate ahead of the November general election. The SOS office also noted new county election precinct boundaries from a March/April 2025 review are in effect for 2026, which Cameron County voters need to be aware of when locating their correct polling place for the November 3 general election.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0pk4yep",
+        "headline": "Appeals Court Reinstates Texas Mail Ballot ID Rules",
+        "sourceName": "WABC Radio",
+        "url": "https://wabcradio.com/2026/08/17/appeals-court-reinstates-texas-mail-ballot-id-rules/",
+        "publishedAt": "2026-08-17",
+        "relevanceSummary": "This brief notes that a federal appeals court has reinstated rules requiring Texas mail-in voters to provide an identification number or Social Security number when returning ballots, reinforcing that TX-34 voters using mail ballots must now ensure their ID information is correctly provided to avoid rejection.[7]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-08mk76q",
+        "headline": "ID requirements for mail-in voting in Texas reinstated by federal appeals court",
+        "sourceName": "KXAN (Nexstar)",
+        "url": "https://www.kxan.com/news/texas/id-requirements-for-mail-in-voting-in-texas-reinstated-by-federal-appeals-court/",
+        "publishedAt": "2026-08-16",
+        "relevanceSummary": "This Texas-focused report describes how the reinstated law creates ID requirements for mail-in ballots and applications and notes Secretary of State guidance that mail voters should write both their Texas ID number and the last four digits of their SSN so at least one matches, offering practical instructions TX-34 mail voters can follow.[15]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0lqv8v6",
+        "headline": "Attorney General Paxton Secures Legal Victory Upholding ID Requirements for Mail Ballots and Other Provisions",
+        "sourceName": "Office of the Texas Attorney General",
+        "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-legal-victory-upholding-id-requirements-mail-ballots-and-other",
+        "publishedAt": "2026-08-15",
+        "relevanceSummary": "The state Attorney General’s release explains that Texas may enforce provisions requiring mail voters to provide an identification or Social Security number that matches state records, confirming to TX-34 voters that these ID and related assistance rules are in effect for the November election.[11]",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0dd4z5p",
+        "headline": "Texas SB 1 Mail Ballot ID Rules Restored: Aug 2026 Ruling",
+        "sourceName": "Texas Legal Rights Society (TXLRS)",
+        "url": "https://txlrs.org/blog-post/texas-sb1-mail-ballot-id-voter-assistance-ruling-2026",
+        "publishedAt": "2026-08-15",
+        "relevanceSummary": "This explainer details which SB 1 mail-ballot provisions are now enforceable in Texas, including the requirement that mail voters provide an ID or Social Security number that matches state records, new voter-assistance oaths, and cure procedures for defective mail ballots—key statewide rules TX-34 voters must follow for November.[2]",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0eqhgtt",
+        "headline": "Fifth Circuit restores Texas mail-ballot ID rules after five years of litigation",
+        "sourceName": "American Tribune",
+        "url": "https://americantribune.com/fifth-circuit-restores-texas-mail-ballot-id-rules-after-five-years-of-litigation/",
+        "publishedAt": "2026-08-15",
+        "relevanceSummary": "A federal appeals court has restored Texas’ mail-in ballot identification rules, requiring mail voters to provide a driver license or Social Security number that matches state records, and reinstating an oath and a signature-cure process; this directly affects how TX-34 voters who qualify to vote by mail must complete applications and returned ballots in November.[1]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0lodkk2",
+        "headline": "Election Hub: Voting in Texas 2026",
+        "sourceName": "ACLU of Texas",
+        "url": "https://www.aclutx.org/know-your-rights/election-hub/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This statewide voter resource outlines Texas registration and mail-ballot application deadlines for 2026, explains polling-place rules (including countywide polling variations) and acceptable photo IDs for in-person voting, giving TX-34 voters up-to-date, practical guidance on registration, voting options, and ID requirements.[8]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0qx9v65",
+        "headline": "Federal appeals court restores Texas mail ballot ID requirements in major election integrity ruling",
+        "sourceName": "Fox News via Politomix",
+        "url": "https://politomix.com/foxnews/2388374/federal-appeals-court-restores-texas-mail-ballot-id/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "This article reports that the 5th U.S. Circuit Court of Appeals reinstated key provisions of Texas’ 2021 election law, including the ID-number requirement for mail-in ballots and applications, which governs how eligible TX-34 voters must complete mail voting paperwork for the upcoming general election.[6]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0qh69xy",
+        "headline": "Court says mail ballots are 'prone to fraud,' backs Texas crackdown law",
+        "sourceName": "The Washington Times",
+        "url": "https://www.washingtontimes.com/news/2026/aug/13/court-says-mail-ballots-prone-fraud-backs-texas-crackdown-law/",
+        "publishedAt": "2026-08-13",
+        "relevanceSummary": "Coverage of the appeals court decision explains that Texas mail voters must now include a matching Social Security or ID number and that anyone assisting with mailed ballots must sign an oath and disclose if they are paid, clarifying compliance obligations for TX-34 voters who use or help with mail-in voting.[3]",
+        "tag": "legal",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-tx34-auto",
-      "startedAt": "2026-08-12T05:42:56.320Z",
-      "completedAt": "2026-08-12T05:43:01.598Z",
+      "id": "run-2026-08-19-tx34-auto",
+      "startedAt": "2026-08-19T05:01:33.469Z",
+      "completedAt": "2026-08-19T05:01:52.775Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
-      "updatesCreated": 0,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:43:01.598Z",
+    "NEXT_REFRESH_AT": "2026-08-26T05:01:52.775Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
