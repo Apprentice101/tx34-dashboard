@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T05:01:52.775Z",
-  "exportedAt": "2026-08-19T05:10:05.992Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T05:08:49.229Z",
+  "exportedAt": "2026-08-26T05:18:04.890Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -973,20 +973,100 @@
         "relevanceSummary": "Coverage of the appeals court decision explains that Texas mail voters must now include a matching Social Security or ID number and that anyone assisting with mailed ballots must sign an oath and disclose if they are paid, clarifying compliance obligations for TX-34 voters who use or help with mail-in voting.[3]",
         "tag": "legal",
         "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-04icbpc",
+        "headline": "Running as an Independent Candidate in 2026",
+        "sourceName": "Texas Secretary of State",
+        "url": "https://www.sos.state.tx.us/elections/candidates/guide/2026/ind2026.shtml",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This Texas Secretary of State page lays out the filing deadlines and petition requirements for independent candidates in the 2026 general election. That matters to TX-34 voters because ballot-access rules determine which candidates qualify for November.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0sosu8r",
+        "headline": "Procedures for Write-In Candidates in 2026",
+        "sourceName": "Texas Secretary of State",
+        "url": "https://www.sos.state.tx.us/elections/candidates/guide/2026/writein2026.shtml",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This statewide filing guide covers the ballot-access procedure for write-in candidates in Texas. It is relevant to TX-34 voters because candidate qualification affects the November general-election ballot they will see.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0vl09zd",
+        "headline": "Supreme Court gives Trump 6-3 win pausing election ...",
+        "sourceName": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/supreme-court-gives-trump-6-170047576.html",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "The report says Texas law still requires a driver’s license number or Social Security number on mail-ballot applications and notes Texas election deadlines remain unchanged. That is directly relevant to TX-34 voters because it confirms current statewide mail-voting rules and deadlines.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0z72l8o",
+        "headline": "How to cast a ballot in Texas' November midterm election",
+        "sourceName": "Texas Tribune",
+        "url": "https://www.texastribune.org/2026/08/25/texas-general-election-november-2026-voter-guide/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This statewide voter guide is directly relevant to TX-34 because Texas election rules apply to district voters. It explains mail-voting eligibility, the Oct. 23 deadline to apply for a ballot by mail, and the Election Day receipt rules for returned ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0cwd3qq",
+        "headline": "Supreme Court allows some Trump vote-by-mail limits ahead of midterm election",
+        "sourceName": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html",
+        "publishedAt": "2026-08-24",
+        "relevanceSummary": "This story says a nationwide injunction still blocks USPS from implementing new mail-voting procedures for the Nov. 3 elections. TX-34 voters using mail ballots should watch this issue because it could affect how ballots are processed and returned.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0qqlnxy",
+        "headline": "USPS publishes new rule requiring states to submit voter data before mailing ballots",
+        "sourceName": "turnto10.com",
+        "url": "https://turnto10.com/news/nation-world/usps-publishes-new-rule-requiring-states-to-submit-voter-data-before-mailing-ballots-mail-in-united-states-postal-service-vote-voters-voter-fraud-politics-president-donald-trump",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This article describes USPS standards for mail-in and absentee ballots that could affect how Texas mail ballots are handled in federal elections. TX-34 voters who vote by mail should know about any new ballot-processing requirements that could affect delivery and counting.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0wdy99q",
+        "headline": "US Postal Service rule tightens mail-in voting despite court ...",
+        "sourceName": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/aug/21/us-postal-service-mail-in-voter-rule",
+        "publishedAt": "2026-08-22",
+        "relevanceSummary": "This report covers a nationwide USPS mail-ballot rule that would affect Texas voters using mail ballots for federal elections. Because TX-34 voters follow Texas ballot procedures and mail delivery standards, the change is relevant to ballot-return timing and tracking.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-059tzgp",
+        "headline": "Texas",
+        "sourceName": "VoteRiders",
+        "url": "https://voteriders.org/states/texas/check-id-rules/",
+        "publishedAt": "2026-08-21",
+        "relevanceSummary": "This Texas voter-ID resource explains the state’s in-person photo-ID requirements and the ID-number rules for mail ballots. It matters to TX-34 voters because Texas election ID rules apply statewide, including what numbers to provide on mail-ballot forms and envelopes.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-tx34-auto",
-      "startedAt": "2026-08-19T05:01:33.469Z",
-      "completedAt": "2026-08-19T05:01:52.775Z",
+      "id": "run-2026-08-26-tx34-auto",
+      "startedAt": "2026-08-26T05:08:39.377Z",
+      "completedAt": "2026-08-26T05:08:49.229Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for TX-34. Sources checked: 12. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T05:01:52.775Z",
+    "NEXT_REFRESH_AT": "2026-09-02T05:08:49.229Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
