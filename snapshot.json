@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T05:08:49.229Z",
-  "exportedAt": "2026-08-26T05:18:04.890Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T09:00:24.952Z",
+  "exportedAt": "2026-09-02T09:12:00.592Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -1053,20 +1053,90 @@
         "relevanceSummary": "This Texas voter-ID resource explains the state’s in-person photo-ID requirements and the ID-number rules for mail ballots. It matters to TX-34 voters because Texas election ID rules apply statewide, including what numbers to provide on mail-ballot forms and envelopes.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0vknja1",
+        "headline": "Tarrant County's November elections will have 92 fewer polling places",
+        "sourceName": "Fort Worth Report",
+        "url": "https://fortworthreport.org/2026/09/01/advocates-demand-increased-voting-access-as-tarrant-county-considers-cutting-polling-sites/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This county election-administration story matters to Texas voters because it covers polling-location changes that can affect access and Election Day logistics. Although TX-34 is not in Tarrant County, the article is in-scope as Texas county election administration coverage and notes that early voting runs Oct. 19-30 and Election Day is Nov. 3.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-037x7lz",
+        "headline": "Texas Voter Guide: What to Know for the 2026 Election",
+        "sourceName": "myhoustonmajic.com",
+        "url": "https://myhoustonmajic.com/5558385/texas-voter-guide-what-to-know-for-the-2026-election/",
+        "publishedAt": "2026-09-01",
+        "relevanceSummary": "This statewide Texas voter guide is directly relevant to TX-34 voters because it explains ballot-by-mail deadlines, acceptable photo IDs, and where to check polling-place and registration information. It says mail-ballot applications must be received by October 23 and lists the seven acceptable forms of photo identification for voting in Texas.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0gffs7m",
+        "headline": "Plan to cut number of polling sites in a major Texas county",
+        "sourceName": "ABC News",
+        "url": "https://abcnews.com/Politics/wireStory/plan-cut-number-polling-sites-major-texas-county-136078582",
+        "publishedAt": "2026-08-31",
+        "relevanceSummary": "This Texas county-level election story is relevant because it reports on a proposed reduction in polling places, a procedural issue that can affect voter access and wait times. Texas counties set their own polling-place counts, so similar administrative decisions can affect how voters in the state reach the polls.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0sz49o3",
+        "headline": "300K Houston-area voters are on Texas' suspense list. What to know.",
+        "sourceName": "Houston Chronicle",
+        "url": "https://www.houstonchronicle.com/politics/article/houston-voters-texas-suspense-list-2026-22409172.php",
+        "publishedAt": "2026-08-29",
+        "relevanceSummary": "This article is directly relevant to Texas voters because it explains how suspense-list status affects registration and what steps are needed to restore active status before the deadline. It also describes the statement-of-residence form at the polls and the limited-ballot option for voters who moved to a new county.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0wsps3n",
+        "headline": "Why 1.2 million Texans are on the voter 'suspense' list ...",
+        "sourceName": "Fox 4 News",
+        "url": "https://www.fox4news.com/election/how-to-fix-texas-voter-suspense-list",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This Texas election-information story is relevant to TX-34 voters because it explains how to get off the suspense list before the Oct. 5 deadline and what documents are needed to update registration. It also notes that a statement of residence can be used at the polls if the address has not changed within the same county.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-02wpbwd",
+        "headline": "Texas suspense list tops 1.2 million voters before midterms",
+        "sourceName": "KRLD",
+        "url": "https://www.audacy.com/krld/news/local/texas-suspense-list-tops-1-2-million-voters-before-midterms",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This Texas voter-registration story matters to TX-34 voters because it explains what to do if your registration is on the suspense list, including the Oct. 5 update deadline and the statement-of-residence process at the polls. It also notes that voters can update their address through the Secretary of State’s website, a county elections office, or by mail.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0982wn1",
+        "headline": "After backlash, Tarrant County to vote on plan adding dozens of polling places",
+        "sourceName": "Star-Telegram",
+        "url": "https://www.star-telegram.com/news/politics-government/article317043747.html",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This article covers county election administration in Texas, focusing on how many Election Day and early-voting polling places will be available. It matters to TX-34 voters as a Texas procedural example because county-level polling-site decisions can shape access statewide.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-tx34-auto",
-      "startedAt": "2026-08-26T05:08:39.377Z",
-      "completedAt": "2026-08-26T05:08:49.229Z",
+      "id": "run-2026-09-02-tx34-auto",
+      "startedAt": "2026-09-02T09:00:09.313Z",
+      "completedAt": "2026-09-02T09:00:24.952Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
-      "updatesCreated": 8,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for TX-34. Sources checked: 12. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T05:08:49.229Z",
+    "NEXT_REFRESH_AT": "2026-09-09T09:00:24.952Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
