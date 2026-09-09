@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T09:00:24.952Z",
-  "exportedAt": "2026-09-02T09:12:00.592Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T09:12:56.844Z",
+  "exportedAt": "2026-09-09T09:22:23.919Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -1123,20 +1123,90 @@
         "relevanceSummary": "This article covers county election administration in Texas, focusing on how many Election Day and early-voting polling places will be available. It matters to TX-34 voters as a Texas procedural example because county-level polling-site decisions can shape access statewide.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0hzzd3p",
+        "headline": "USPS Mail-In Ballot Rule Still Can't Take Effect, Judge Rules, Teeing Up Supreme Court Battle",
+        "sourceName": "Forbes",
+        "url": "https://www.forbes.com/sites/alisondurkee/2026/09/04/usps-mail-in-ballot-rule-will-stay-blocked-judge-rules-teeing-up-supreme-court-battle/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This affects Texas voters who rely on mail ballots because it keeps the USPS rule from taking effect before November. Forbes reports the federal judge extended the block on the new mail-voting rule, preserving current ballot-delivery practices for now.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0ec56ik",
+        "headline": "US judge again blocks Postal Service's mail-in voting restrictions",
+        "sourceName": "Reuters",
+        "url": "https://www.reuters.com/legal/government/us-judge-again-blocks-postal-services-mail-in-voting-restrictions-2026-09-04/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This federal ruling directly affects mail-ballot delivery rules that could apply to Texas voters, including TX-34 residents who vote by mail. Reuters says the court extended a ban on a USPS rule that would have required states to submit mail-ballot recipient lists and use specially barcoded envelopes.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-00456xp",
+        "headline": "Trump asks Supreme Court to OK sweeping changes for mail ballots",
+        "sourceName": "CNN",
+        "url": "https://www.cnn.com/2026/09/03/politics/trump-asks-supreme-court-to-ok-sweeping-changes-for-mail-ballots",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This is relevant to TX-34 voters because any federal change to mail-ballot handling would affect Texas voters who vote by mail. CNN reports that the proposed USPS rule would require states to submit eligible mail-voter lists and use unique barcodes on election-mail envelopes.",
+        "tag": "rule-change",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-05m8z9c",
+        "headline": "What to know about the mail-in voting fight at the Supreme Court",
+        "sourceName": "NPR",
+        "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This national procedural story is relevant to Texas voters because it explains the status of the federal mail-ballot dispute and notes that key parts of the USPS plan are currently blocked by court order. It also clarifies that mail voting remains available for eligible voters under state rules.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0m3o8bj",
+        "headline": "Texas county removes 92 polling sites ahead of November election",
+        "sourceName": "People's Tribune",
+        "url": "https://peoplestribune.org/2026/09/texas-county-removes-92-polling-sites-ahead-of-november-election/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This county election-administration change matters to Texas voters because polling-place reductions can affect access, travel time, and Election Day planning. The article says Tarrant County approved 92 fewer polling sites for November than in the 2022 midterms.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0ylcu48",
+        "headline": "Key Texas county votes to cut polling sites ahead of the midterms",
+        "sourceName": "Spectrum Local News",
+        "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/09/02/tarrant-county-commissioners-approve-cutting-polling-sites",
+        "publishedAt": "2026-09-02",
+        "relevanceSummary": "This is directly relevant as Texas county-level election administration news because it reports a major reduction in Election Day polling locations. The article says Tarrant County approved 224 Election Day polling sites, 92 fewer than in the 2022 midterms, which can inform how Texas voters plan where to cast ballots.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0pelcss",
+        "headline": "What the US Postal Service's effort to reshape mail-in voting means for Texas",
+        "sourceName": "San Antonio Express-News",
+        "url": "https://www.expressnews.com/politics/article/usps-mail-voting-texas-22412931.php",
+        "publishedAt": "2026-09-02",
+        "relevanceSummary": "This Texas-focused explainer is relevant because it spells out the state’s mail-voting rules for eligible voters, including that Texas mail voters must apply through county election officials and meet ID-number matching requirements. It also notes the application deadline for the November election window.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-tx34-auto",
-      "startedAt": "2026-09-02T09:00:09.313Z",
-      "completedAt": "2026-09-02T09:00:24.952Z",
+      "id": "run-2026-09-09-tx34-auto",
+      "startedAt": "2026-09-09T09:12:34.390Z",
+      "completedAt": "2026-09-09T09:12:56.844Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
       "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T09:00:24.952Z",
+    "NEXT_REFRESH_AT": "2026-09-16T09:12:56.844Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
