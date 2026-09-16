@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T09:12:56.844Z",
-  "exportedAt": "2026-09-09T09:22:23.919Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:44:30.802Z",
+  "exportedAt": "2026-09-16T09:53:54.129Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -1193,20 +1193,100 @@
         "relevanceSummary": "This Texas-focused explainer is relevant because it spells out the state’s mail-voting rules for eligible voters, including that Texas mail voters must apply through county election officials and meet ID-number matching requirements. It also notes the application deadline for the November election window.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-06f8x4a",
+        "headline": "Do you trust your vote? Inside Harris County's election testing process",
+        "sourceName": "Click2Houston",
+        "url": "https://www.click2houston.com/news/local/2026/09/15/do-you-trust-your-vote-inside-harris-countys-election-testing-process/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Describes Harris County’s pre‑election equipment testing and provides statewide key dates such as the voter‑registration deadline, early‑voting window, and mail‑ballot application deadline from the Texas Secretary of State, illustrating both local administration practices and timelines that apply to TX‑34 voters.[4]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0lxy6gy",
+        "headline": "How to make sure you're registered to vote in the Nov. 3 election",
+        "sourceName": "KSAT",
+        "url": "https://www.ksat.com/news/local/2026/09/15/texas-voter-registration-deadline-approaches-as-election-day-nears/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Provides step‑by‑step Texas voter registration instructions, explains that voters must register at least 30 days before Election Day, and reiterates the list of acceptable photo IDs required at the polls, making it a concrete guide to statewide procedures for TX‑34 voters.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0d7z5mc",
+        "headline": "Register to vote ahead of the October deadline for National Voter Registration Day",
+        "sourceName": "FOX 26 Houston",
+        "url": "https://www.fox26houston.com/news/national-voter-registration-day-voters-ahead-november-election",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Outlines Texas voter registration deadlines and lists acceptable photo IDs for voting, such as Texas driver’s licenses, election identification certificates, handgun licenses, military IDs, passports, and supporting non‑photo documents, clarifying statewide voter‑ID requirements relevant to TX‑34 voters.[10]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0qs3b1n",
+        "headline": "1.2 million Texans risk voter trouble: check your status",
+        "sourceName": "Rolling Out",
+        "url": "https://rollingout.com/2026/09/15/texas-voter-list-how-to-check-status/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Warns that many Texans may face issues due to registration or address problems and walks through three main methods to verify and update registration, including using the Am I Registered? tool at VoteTexas.gov, contacting county registrars, and using DPS services—information directly usable by TX‑34 voters.[8]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-04tz9qr",
+        "headline": "It's National Voter Registration Day. Am I registered to vote in Texas?",
+        "sourceName": "USA Today",
+        "url": "https://www.usatoday.com/story/news/state/texas/2026/09/15/voter-registration-texas-midterm-elections/91759605007/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Details how Texans can check and update their voter registration through VoteTexas.gov and notes that registration and updates can also be completed online when renewing or changing a Texas driver’s license or state ID, providing practical statewide guidance for TX‑34 voters.[3]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0ey8eg8",
+        "headline": "Are you registered to vote in Texas? Here's how to do it",
+        "sourceName": "KERA News",
+        "url": "https://www.keranews.org/elections-2026/2026-09-15/how-to-register-to-vote-texas-dallas-fort-worth-denton-national-voter-registration-day-suspense-list?_amp=true",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Explains current Texas voter registration procedures, including the requirement to use the Secretary of State’s online application that must be printed, signed, and mailed or handled through a county voter registrar, and emphasizes the 30‑day deadline before Election Day—rules that apply directly to TX‑34 voters.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-02hhe8i",
+        "headline": "Texas Supreme Court blocks redrawn Galveston County voting boundaries for November",
+        "sourceName": "The Texas Tribune",
+        "url": "https://www.texastribune.org/2026/09/11/texas-galveston-county-redistricting-supreme-court-maps/",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "Explains that the Texas Supreme Court prohibited Galveston County from using newly redrawn district maps for the November general, underscoring that county‑level court rulings can affect which district lines and precinct boundaries are in force on Election Day, an important procedural precedent for voters across Texas including TX‑34.[9]",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0yunnbc",
+        "headline": "Arlington resolution on reduced polling sites in Tarrant will go to vote in late September",
+        "sourceName": "KERA News",
+        "url": "https://www.keranews.org/elections-2026/2026-09-10/arlington-resolution-on-reduced-polling-sites-in-tarrant-will-go-to-vote-in-late-september",
+        "publishedAt": "2026-09-10",
+        "relevanceSummary": "Reports that Tarrant County commissioners approved a plan with 92 fewer polling locations than in 2022 and that Arlington officials are considering a resolution in response, highlighting county‑level decisions on polling site availability and vote centers that illustrate how Texas counties may alter Election Day access.[15]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-tx34-auto",
-      "startedAt": "2026-09-09T09:12:34.390Z",
-      "completedAt": "2026-09-09T09:12:56.844Z",
+      "id": "run-2026-09-16-tx34-auto",
+      "startedAt": "2026-09-16T09:44:03.248Z",
+      "completedAt": "2026-09-16T09:44:30.802Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
-      "updatesCreated": 7,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T09:12:56.844Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:44:30.802Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
