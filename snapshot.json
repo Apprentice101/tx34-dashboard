@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:44:30.802Z",
-  "exportedAt": "2026-09-16T09:53:54.129Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:32:04.461Z",
+  "exportedAt": "2026-09-23T09:40:09.525Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -1273,20 +1273,100 @@
         "relevanceSummary": "Reports that Tarrant County commissioners approved a plan with 92 fewer polling locations than in 2022 and that Arlington officials are considering a resolution in response, highlighting county‑level decisions on polling site availability and vote centers that illustrate how Texas counties may alter Election Day access.[15]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-06nywrs",
+        "headline": "Oct. 5 is the deadline to register to vote in Texas' Nov. 3 midterm election",
+        "sourceName": "Community Impact",
+        "url": "https://communityimpact.com/central-austin/election/oct-5-is-the-deadline-to-register-to-vote-in-texas-nov-3-midterm-election/",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The article reports that eligible Texans must submit a paper registration application postmarked by October 5 and explains where applications are available. It also notes that voters on the suspense list can vote after completing a statement of residence and gives October 23 as the mail-ballot application deadline.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-03v2ypo",
+        "headline": "Texas GOP Closed-Primary Lawsuit Paused by Federal Judge",
+        "sourceName": "Hoodline",
+        "url": "https://hoodline.com/2026/09/texas-primary-rules-face-a-legislative-test-after-federal-court-pauses-gop-lawsuit/",
+        "publishedAt": "2026-09-19",
+        "relevanceSummary": "The article reports that a federal judge paused litigation over efforts to close Texas Republican primaries. The practical rule remains unchanged for now: Texas voters do not declare a party when registering, while voting in a primary creates temporary affiliation for that election year.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0x6cqvp",
+        "headline": "Election officials say voters won't see changes to mail-in ballots amid Supreme Court ruling",
+        "sourceName": "KSAT 12",
+        "url": "https://www.ksat.com/news/local/2026/09/18/election-officials-say-voters-wont-see-changes-to-mail-in-ballots-amid-a-supreme-court-decision/",
+        "publishedAt": "2026-09-19",
+        "relevanceSummary": "San Antonio-area election officials confirmed that Texas voters will not see changes to the mail-in-ballot system after the U.S. Supreme Court rejected an effort to impose new restrictions. The article also directs voters to track ballots through VoteTexas.gov.",
+        "tag": "litigation",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0b4c5ee",
+        "headline": "Texans have less than 3 weeks to register to vote for November 2026 midterm election",
+        "sourceName": "Houston Public Media",
+        "url": "https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/09/17/562107/texas-2026-midterm-voter-registration-deadline-november/",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article states that Texas does not generally offer online voter registration and that paper applications must reach the county election office 30 days before the election. It also lists accepted in-person photo IDs and identifies October 23 as the mail-ballot application deadline.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0oairfn",
+        "headline": "Early voting and voter registration guide for Nueces County and the Coastal Bend",
+        "sourceName": "KRIS 6 News",
+        "url": "https://www.kristv.com/news/national-politics/america-votes/early-voting-and-voter-registration-guide-for-nueces-county-and-the-coastal-bend",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The guide describes Nueces County voting procedures, including eligibility for mail ballots, the requirement to send an original signed application after emailing it, and Texas photo-ID rules for in-person voting. Nueces County is within TX-34, making these procedures directly relevant to district voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0a3innw",
+        "headline": "Are you a Texas voter in 'suspense'? Don't freak out. You can still vote in November",
+        "sourceName": "KERA News",
+        "url": "https://www.keranews.org/texas-news/2026-09-17/election-voter-suspense-registration-vote-ballot",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article explains that Texas voters on the suspense list can still vote in November; voters who remain in the same county may need to complete a statement of residence. This statewide registration procedure directly applies in TX-34.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-00k27sq",
+        "headline": "Are you registered to vote in Texas? Here's how to do it",
+        "sourceName": "KTEP",
+        "url": "https://www.ktep.org/2026-09-17/are-you-registered-to-vote-in-texas-heres-how-to-do-it",
+        "publishedAt": "2026-09-17",
+        "relevanceSummary": "The article explains Texas voter-registration procedures, including obtaining an application from the state or county registrar and completing registration at least 30 days before Election Day. These statewide procedures apply to TX-34 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0xx0p4f",
+        "headline": "What to know about the November election",
+        "sourceName": "KENS 5",
+        "url": "https://www.kens5.com/article/news/politics/elections/kens-5-voter-guide-what-to-know-about-the-november-election/273-99d65313-862f-438a-9f04-403fdef03994",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "The Bexar County guide explains eligibility, mail-ballot application procedures, and the October 23 deadline for applications to be received by the elections office. Bexar County is part of TX-34, so the county-specific guidance is directly relevant to district voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-tx34-auto",
-      "startedAt": "2026-09-16T09:44:03.248Z",
-      "completedAt": "2026-09-16T09:44:30.802Z",
+      "id": "run-2026-09-23-tx34-auto",
+      "startedAt": "2026-09-23T09:31:49.382Z",
+      "completedAt": "2026-09-23T09:32:04.461Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for TX-34. Sources checked: 12. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:44:30.802Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:32:04.461Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
