@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:32:04.461Z",
-  "exportedAt": "2026-09-23T09:40:09.525Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:31:48.958Z",
+  "exportedAt": "2026-09-30T10:40:30.845Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -1353,20 +1353,100 @@
         "relevanceSummary": "The Bexar County guide explains eligibility, mail-ballot application procedures, and the October 23 deadline for applications to be received by the elections office. Bexar County is part of TX-34, so the county-specific guidance is directly relevant to district voters.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0ra8by9",
+        "headline": "Here’s how to register to vote in Texas before the Oct. 5 deadline",
+        "sourceName": "The Texas Tribune",
+        "url": "https://www.texastribune.org/2026/09/29/texas-2026-elections-register-to-vote-october-deadline/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "Texas voters, including those in TX-34, generally must complete and submit a paper voter-registration application by October 5 for the November election.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0o6q6im",
+        "headline": "Texas 2026 midterm elections voter guide: How to register, vote early, and key dates to keep in mind",
+        "sourceName": "CBS News Texas",
+        "url": "https://www.cbsnews.com/texas/news/texas-2026-midterm-election-guide/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The statewide guide explains Texas photo-ID requirements, the Reasonable Impediment Declaration and alternative documents, voter-registration and mail-ballot deadlines, and early voting procedures relevant to TX-34 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0sywbgm",
+        "headline": "Key dates and information: What Texas voters need to do ahead of the midterm elections",
+        "sourceName": "KERA News",
+        "url": "https://www.keranews.org/news/2026-09-29/key-dates-and-information-what-texas-voters-need-to-do-ahead-of-the-midterm-elections",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "This statewide voter guide applies directly to TX-34 voters and lists acceptable photo identification, mail-ballot eligibility, the October 23 application deadline, and ballot-return deadlines for the November 3 election.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0kx9dma",
+        "headline": "Incumbent Vicente Gonzalez Jr. (D) and Eric Flores (R) run for Texas' 34th Congressional District in toss-up election",
+        "sourceName": "Ballotpedia News",
+        "url": "https://news.ballotpedia.org/2026/09/28/incumbent-vicente-gonzalez-jr-d-and-eric-flores-r-run-for-texas-34th-congressional-district-in-toss-up-election/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "This TX-34-specific article identifies the candidates listed for the November 3 general-election ballot, including Vicente Gonzalez Jr., Eric Flores, Eddie Espinoza and Chris Royal.",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0qxy70n",
+        "headline": "The last day to register to vote for the November election in Texas is Oct. 5",
+        "sourceName": "KERA News",
+        "url": "https://www.keranews.org/elections-2026/2026-09-28/austin-tx-travis-county-texas-voting-registration-deadline-vote",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "This statewide registration explainer identifies October 5 as the deadline and also covers Texas photo-ID rules, alternative identification, and the October 23 mail-ballot application deadline.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0bsczrr",
+        "headline": "Delayed Texas voter applications highlight how difficult it is to register in the state, experts say",
+        "sourceName": "The Texas Tribune",
+        "url": "https://www.texastribune.org/2026/09/25/texas-voter-registration-delay-backlog-online-dps/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "The article reports delays affecting Texas voter-registration applications and advises applicants to obtain a postmark when mailing applications, making it relevant to TX-34 residents registering before the deadline.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0x9hjfp",
+        "headline": "Texas DPS error leads to voter registration backlog before deadline",
+        "sourceName": "USA Today",
+        "url": "https://www.usatoday.com/story/news/state/texas/2026/09/24/texas-dps-voter-registration-backlog-error-near-election-day/91919886007/",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "A Texas Department of Public Safety error created a voter-registration backlog before the October 5 deadline; the report also reiterates the October 23 mail-ballot application deadline and November 3 Election Day.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0sm9uuu",
+        "headline": "Texas DPS failed to send voter registration applications to county election officials",
+        "sourceName": "Houston Public Media",
+        "url": "https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/09/23/562596/texas-dps-failed-to-send-voter-registration-applications-to-county-election-officials/",
+        "publishedAt": "2026-09-23",
+        "relevanceSummary": "The report describes a statewide failure involving DPS-transmitted voter-registration applications and explains Texas’s registration process, issues that can affect applicants in TX-34 counties.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-tx34-auto",
-      "startedAt": "2026-09-23T09:31:49.382Z",
-      "completedAt": "2026-09-23T09:32:04.461Z",
+      "id": "run-2026-09-30-tx34-auto",
+      "startedAt": "2026-09-30T10:31:34.545Z",
+      "completedAt": "2026-09-30T10:31:48.958Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for TX-34. Sources checked: 12. LLM verifications: 1. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:32:04.461Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:31:48.958Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
