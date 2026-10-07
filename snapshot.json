@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:31:48.958Z",
-  "exportedAt": "2026-09-30T10:40:30.845Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T11:07:38.549Z",
+  "exportedAt": "2026-10-07T11:15:39.300Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -1433,20 +1433,100 @@
         "relevanceSummary": "The report describes a statewide failure involving DPS-transmitted voter-registration applications and explains Texas’s registration process, issues that can affect applicants in TX-34 counties.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0w8oz4f",
+        "headline": "What to know about early voting in Bexar County for Nov. 3 midterm election",
+        "sourceName": "KSAT 12",
+        "url": "https://www.ksat.com/news/local/2026/10/06/what-to-know-about-early-voting-in-bexar-county-for-nov-3-midterm-election/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Bexar County’s early-voting schedule and locations are listed for Oct. 19–30, including the main elections office and branch sites. County-level logistics are relevant to TX-34 voters in Bexar County and illustrate the location and hours voters should verify with their county.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-08r1xvp",
+        "headline": "Texas General Election Is Coming: What to Know Before You Vote",
+        "sourceName": "Texas 2036",
+        "url": "https://texas2036.org/news-analysis/texas-general-election-is-coming-what-to-know-before-you-vote/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "This statewide voter-information article lists the Oct. 19 start of early voting, Oct. 23 deadline for received mail-ballot applications, Oct. 30 end of early voting, and Nov. 3 Election Day. It also explains that Texas voters must select candidates individually because straight-ticket voting is not available.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0yku9nz",
+        "headline": "Texas voter registration deadline is today: Here's what you need to know",
+        "sourceName": "KSAT 12",
+        "url": "https://www.ksat.com/vote-2026/2026/10/05/texas-voter-registration-deadline-is-today-heres-what-you-need-to-know/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The article covers the Oct. 5 Texas registration deadline, acceptable photo identification for in-person voting, the Oct. 23 mail-ballot application deadline, and the Oct. 19–30 early-voting period. The identification rules and deadlines apply directly to TX-34 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0ax7ux7",
+        "headline": "Expanded ballot tool includes local races for 16 million Texans",
+        "sourceName": "The Texas Tribune",
+        "url": "https://www.texastribune.org/2026/10/05/texas-tribune-ballot-tool-2026-election-local/",
+        "publishedAt": "2026-10-05",
+        "relevanceSummary": "The Texas Tribune expanded its Texas election ballot tool to include local races and noted that in-person early voting begins Oct. 19. TX-34 voters can use this statewide resource to review the contests and candidates appearing on their ballot.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0zcu4d0",
+        "headline": "Election 2026 Voter Guide: Everything you need to know about the Nov. 3 general elections in El Paso",
+        "sourceName": "El Paso Matters",
+        "url": "https://elpasomatters.org/2026/10/04/election-2026-voter-guide-everything-you-need-to-know-about-the-nov-3-general-elections-in-el-paso/",
+        "publishedAt": "2026-10-04",
+        "relevanceSummary": "The guide explains Texas’s acceptable photo-ID requirements and eligibility categories for voting by mail, including being 65 or older, sick or disabled, expecting to give birth around Election Day, or being incarcerated while otherwise eligible. These statewide procedures also apply to TX-34 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0mrq6xq",
+        "headline": "Texas voter guide 2026: What to know before the Nov. 3 election",
+        "sourceName": "KPRC 2 / Click2Houston",
+        "url": "https://www.click2houston.com/decision-2026/2026/10/02/texas-voter-guide-2026-what-to-know-before-the-nov-3-election/",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "The guide says applications for a Texas ballot by mail must be received by Oct. 23 and explains that voters must provide an approved identification number, such as a Texas driver’s-license, personal-ID or Election Identification Certificate number, or the last four digits of a Social Security number, on the application and carrier envelope.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0nlv3sz",
+        "headline": "Will you be able to vote? Texas deadline is days away, so check now",
+        "sourceName": "Lufkin Daily News",
+        "url": "https://lufkindailynews.com/news_reuters/national/will-you-be-able-to-vote-texas-deadline-is-days-away-so-check-now/article_345557cf-f040-5979-9d70-9e8520a4c3db.html",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article highlights key statewide Texas dates: Oct. 19–30 early voting, Oct. 23 receipt deadline for mail-ballot applications, and Nov. 3 Election Day. The deadlines apply directly to voters in TX-34.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0cv8n82",
+        "headline": "Here's how to register to vote in Texas before the Oct. 5 deadline",
+        "sourceName": "The Texas Tribune",
+        "url": "https://www.texastribune.org/2026/09/29/texas-2026-elections-register-to-vote-october-deadline",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The article explains Texas registration and address-change procedures, including limited-ballot options for voters who moved within the state and the requirement that limited ballots generally be cast during early voting at a main early-voting location. These statewide rules apply to TX-34 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-tx34-auto",
-      "startedAt": "2026-09-30T10:31:34.545Z",
-      "completedAt": "2026-09-30T10:31:48.958Z",
+      "id": "run-2026-10-07-tx34-auto",
+      "startedAt": "2026-10-07T11:07:22.335Z",
+      "completedAt": "2026-10-07T11:07:38.549Z",
       "triggerType": "scheduled",
       "sourcesChecked": 12,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:31:48.958Z",
+    "NEXT_REFRESH_AT": "2026-10-14T11:07:38.549Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
