@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:27:36.125Z",
-  "exportedAt": "2026-10-14T09:35:11.702Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:17:07.458Z",
+  "exportedAt": "2026-10-21T09:25:05.605Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -1593,20 +1593,100 @@
         "relevanceSummary": "The statewide Texas voter guide covers in-person identification requirements and explains how voters can track a submitted mail ballot through the Secretary of State’s system. Those procedures apply to voters in TX-34.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0tt1ika",
+        "headline": "Texas early voting opens with 19 million voters eligible, how to vote",
+        "sourceName": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/state/texas/2026/10/20/texas-midterm-early-voting-opens-how-to-vote/92329468007/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The statewide voting guide states that early voting runs October 19–30 and that Texans may vote at any early-voting location in their county. It summarizes Texas’s seven acceptable photo IDs and the reasonable-impediment alternative.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0gapzuk",
+        "headline": "Early voting started in Texas and these North Texas counties set records",
+        "sourceName": "NBC 5 Dallas-Fort Worth",
+        "url": "https://www.nbcdfw.com/news/politics/lone-star-politics/record-turnout-on-first-day-of-2026-early-voting-in-north-texas/4093325/?partner=nbcnews",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "The report covers the October 19 start of Texas early voting and directs voters to polling-location information for North Texas counties, including Tarrant County. This provides location and scheduling information relevant to the portion of TX-34 in Tarrant County.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0spo77g",
+        "headline": "Early Voting Underway for November General Election; Secretary Howden Encourages Voters to Use Official Information",
+        "sourceName": "Texas Secretary of State via PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/early-voting-underway-for-november-general-election-secretary-howden-encourages-voters-to-use-official-information-838250656.html",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Texas early voting runs October 19–30, and voters may cast ballots at any early-voting polling location in their county of registration. The announcement also reiterates that photo identification is required for in-person voting and directs voters to official polling-place and ID information.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0ufle3z",
+        "headline": "What you can and cannot bring to the election polls in Bexar County",
+        "sourceName": "KSAT",
+        "url": "https://www.ksat.com/news/local/2026/10/19/what-you-can-and-cannot-bring-to-the-election-polls-in-bexar-county/",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The article lists Texas’s accepted photo IDs, including a driver’s license, election identification certificate, passport, military ID, handgun license, and citizenship certificate. It also explains the reasonable-impediment option and supporting documents for voters who cannot reasonably obtain acceptable photo ID.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0h2ox1y",
+        "headline": "Current Election Information",
+        "sourceName": "Tarrant County Elections",
+        "url": "https://www.tarrantcountytx.gov/en/elections/current-election-information.html?linklocation=supermenu&linkname=Current%20Election%20Information",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "Tarrant County lists October 23 as the deadline for the county to receive applications for a ballot by mail and provides October 19–30 early-voting dates. Registered voters may vote at any county Vote Center on Election Day, subject to the applicable election authority’s locations.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0mbeqoo",
+        "headline": "Early voting begins today, Oct. 19. Here’s how to cast a ballot in Texas",
+        "sourceName": "HPPR",
+        "url": "https://www.hppr.org/hppr-news/2026-10-19/early-voting-begins-today-oct-19-heres-how-to-cast-a-ballot-in-texas",
+        "publishedAt": "2026-10-19",
+        "relevanceSummary": "The statewide voter guide explains that in-person early voting runs October 19–30 and that voters can use any polling location in their county of registration. TX-34 voters should check their county election office for locations and hours.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0ku53gv",
+        "headline": "Bexar County elections administrator says office is ready for early voting Oct. 19",
+        "sourceName": "Texas Public Radio",
+        "url": "https://www.tpr.org/government-politics/2026-10-16/bexar-county-elections-administrator-says-office-is-ready-for-early-voting-oct-19",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "Bexar County election officials described early-voting readiness and published the October 19–30 schedule, including varying weekday and weekend hours. The county-level logistics are relevant as Texas election-administration practice and provide procedural context for district voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-tx34-0p914yj",
+        "headline": "How to vote in the November 2026 midterm election in the Houston area",
+        "sourceName": "Houston Public Media",
+        "url": "https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/10/15/564456/how-to-vote-in-november-2026-midterm-election-houston-harris-county-texas/",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "The guide explains county-specific polling-place rules, statewide Election Day hours of 7 a.m. to 7 p.m., and acceptable photo identification. It also describes provisional voting and the reasonable-impediment process, making the statewide procedural information relevant to Texas voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-tx34-auto",
-      "startedAt": "2026-10-14T09:27:24.412Z",
-      "completedAt": "2026-10-14T09:27:36.125Z",
+      "id": "run-2026-10-21-tx34-auto",
+      "startedAt": "2026-10-21T09:16:52.976Z",
+      "completedAt": "2026-10-21T09:17:07.458Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 12,
+      "sourcesChecked": 13,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for TX-34. Sources checked: 12. LLM verifications: 2. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for TX-34. Sources checked: 13. LLM verifications: 3. 1 lastVerified bump on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:27:36.125Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:17:07.458Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
