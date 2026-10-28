@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:17:07.458Z",
-  "exportedAt": "2026-10-21T09:25:05.605Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:20:59.302Z",
+  "exportedAt": "2026-10-28T10:26:55.714Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -69,7 +69,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "high",
         "notes": "Jane Nelson resigned effective July 17, 2026; successor not yet named. Guidance for Nov 2026 general may be issued by an acting or newly appointed SOS."
       },
@@ -82,7 +82,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-06-11",
+        "lastVerified": "2026-10-28",
         "confidence": "high"
       },
       "src-tx-elections-code": {
@@ -1676,17 +1676,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-tx34-auto",
-      "startedAt": "2026-10-21T09:16:52.976Z",
-      "completedAt": "2026-10-21T09:17:07.458Z",
+      "id": "run-2026-10-28-tx34-auto",
+      "startedAt": "2026-10-28T10:20:58.169Z",
+      "completedAt": "2026-10-28T10:20:59.302Z",
       "triggerType": "scheduled",
       "sourcesChecked": 13,
-      "updatesCreated": 8,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for TX-34. Sources checked: 13. LLM verifications: 3. 1 lastVerified bump on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-28 for TX-34. Sources checked: 13. LLM verifications: 3. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:17:07.458Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:20:59.302Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
