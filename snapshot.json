@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-18",
-  "updatedAt": "2026-11-18T12:36:18.750Z",
-  "exportedAt": "2026-11-18T12:43:40.472Z",
+  "dataAsOf": "2026-11-25",
+  "updatedAt": "2026-11-25T13:47:09.496Z",
+  "exportedAt": "2026-11-25T13:52:25.446Z",
   "districtCode": "TX-34",
   "data": {
     "DISTRICT": {
@@ -94,7 +94,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 3,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-11-18",
+        "lastVerified": "2026-11-25",
         "confidence": "high"
       },
       "src-cameron-elections": {
@@ -106,7 +106,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-06-11",
-        "lastVerified": "2026-11-18",
+        "lastVerified": "2026-11-25",
         "confidence": "high",
         "notes": "Administrator: Remi Garza. Core county for TX-34 voter population."
       },
@@ -1676,17 +1676,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-18-tx34-auto",
-      "startedAt": "2026-11-18T12:36:14.360Z",
-      "completedAt": "2026-11-18T12:36:18.750Z",
+      "id": "run-2026-11-25-tx34-auto",
+      "startedAt": "2026-11-25T13:47:05.827Z",
+      "completedAt": "2026-11-25T13:47:09.496Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 29,
+      "sourcesChecked": 28,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-18 for TX-34. Sources checked: 29. LLM verifications: 20. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-11-25 for TX-34. Sources checked: 28. LLM verifications: 19. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-11-25T12:36:18.750Z",
+    "NEXT_REFRESH_AT": "2026-12-02T13:47:09.496Z",
     "WEEKLY_REPORT": {
       "id": "wr-tx34-2026-w24",
       "periodStart": "2026-06-08",
